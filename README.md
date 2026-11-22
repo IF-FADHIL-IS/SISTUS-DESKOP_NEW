@@ -1,5 +1,6 @@
-# Repository Tugas Pembelajaran Berbasis Objek
 
-Belajar Menggunakan Java untuk memahami konsep OOP (Object Oriented Program)
+# SISTUS-DESKOP_NEW
 
-udah sekian
+## Repository Tugas Pembelajaran Berbasis Objek
+
+Belajar menggunakan Java untuk memahami konsep OOP (Object Oriented Programming).
